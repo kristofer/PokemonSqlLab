@@ -49,7 +49,7 @@ Directions: Write a query that returns the following collumns:
 
 Order the data by finding out which trainer has the strongest pokemon so that this will act as a ranking of strongest to weakest trainer. You may interpret strongest in whatever way you want, but you will have to explain your decision.
 
-##Turning in this assignment
+## Turning in this assignment
 
 To turn in this assignment, create files for each part with at least one query for each question answered. Above each query include a comment with the question you were answering.
 Example: 
@@ -60,3 +60,5 @@ Example:
 ```
 
 For Part 4 specifically also leave a comment explaining how your query is deciding who the strongest trainer is
+
+Once all of that is done, submit a pull request
